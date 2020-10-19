@@ -23,9 +23,16 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RollABall/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RollABall/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RollABall/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RollABall/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RollABall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RollABall/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/PickUp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/PickUp.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MiniGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MiniGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rotator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Rotator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Template/Scripts/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Template/Scripts/CameraController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Template/Scripts/SimpleCameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Template/Scripts/SimpleCameraController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Template/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Template/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Template/TutorialInfo/Scripts/Readme.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Template/TutorialInfo/Scripts/Readme.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +48,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Template/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Rotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -90,7 +97,8 @@
       <updated>1602673985080</updated>
       <workItem from="1602673991385" duration="57000" />
       <workItem from="1602680158012" duration="3170000" />
-      <workItem from="1603017305093" duration="1672000" />
+      <workItem from="1603017305093" duration="1893000" />
+      <workItem from="1603092575140" duration="3031000" />
     </task>
     <servers />
   </component>
@@ -115,14 +123,18 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="829" y="191" width="727" height="318" key="#C#" timestamp="1602681438789">
+    <state x="829" y="191" width="821" height="618" key="#C#" timestamp="1603093422669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="829" y="191" width="727" height="318" key="#C#/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1602681438789" />
+    <state x="829" y="191" width="821" height="618" key="#C#/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1603093422669" />
     <state x="708" y="345" key="#Notifications" timestamp="1602683831775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="708" y="345" key="#Notifications/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1602683831775" />
+    <state x="707" y="365" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1603093428221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="365" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1603093428221" />
     <state x="811" y="175" key="SettingsEditor" timestamp="1602680410945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
