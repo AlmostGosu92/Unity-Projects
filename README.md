@@ -7,3 +7,4 @@ Unity projects from game programmer course
 
 ## Input and Movement
 - Project Created, no implementations done.
+- Added 3 player sprites and movement scripts. Problem with velocity movement.
