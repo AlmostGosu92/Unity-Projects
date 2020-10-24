@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da0932d7-0e6b-4adc-8e47-643832d9ea0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/InputAndMovement.sln" beforeDir="false" afterPath="$PROJECT_DIR$/InputAndMovement.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InputAndMovement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InputAndMovement/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -84,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603534555995</updated>
-      <workItem from="1603534569126" duration="1530000" />
+      <workItem from="1603534569126" duration="2403000" />
     </task>
     <servers />
   </component>
